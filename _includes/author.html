@@ -6,11 +6,11 @@
             <a itemprop="name" href="https://plus.google.com/+{{site.gplus_username}}/posts">{{site.username}}</a>
         </h3>
         <p class="desc">{{site.user_description}}</p>
-     <ul>   {% if site.twitter_username %}
+     {% if site.twitter_username %}
   <li>
     <a href="https://twitter.com/{{ site.twitter_username }}">
-      <i class="fa fa-twitter"></i> Twitter
-    </a> </ul>
+      <i class="fa fa-twitter fa-2×"></i> Twitter
+    </a>
   </li>
 {% endif %}
         <p><a itemprop="email" class="email" href="mailto:{{site.email}}">{{site.email}}</a></p>
