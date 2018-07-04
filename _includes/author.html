@@ -6,11 +6,10 @@
             <a itemprop="name" href="https://plus.google.com/+{{site.gplus_username}}/posts">{{site.username}}</a>
         </h3>
         <p class="desc">{{site.user_description}}</p>
-     {% if site.twitter_username %}
-    <a href="https://twitter.com/{{ site.twitter_username }}">
-      <i class="fas fa-code"></i> Twitter
+     <a aria-label="Wpdanblogger on Facebook"href="https://www.facebook.com/{{ site.facebook_username}}"
+    onclick="window.open(this.href, 'facebook-page','width=580,height=296');return false;" title="Page Facebook">
+        <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
     </a>
-{% endif %}
         <p><a itemprop="email" class="email" href="mailto:{{site.email}}">{{site.email}}</a></p>
         <p><a itemprop="github" class="github" href="https://github.com/{{site.github_username}}">github.com/{{site.github_username}}</a></p>
     </div>
