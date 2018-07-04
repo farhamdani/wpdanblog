@@ -1,17 +1,17 @@
 # Site settings
-title: Willian Justen - Desenvolvedor Front End
-description: A blog about lorem ipsum dolor sit amet
+title: Wpdanblogger - Panduan WordPress dan Blogger
+description: Wpdanblogger Adalah Situs Yang Membahas Tentang Tutorial WordPress dan Blogger, Plugins, Theme WordPress Gratis, Template Blogger Gratis
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://wpdanblogger.com" # the base hostname & protocol for your site e.g. http://wpdanblogger.com
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+username: wpdanblogger
+user_description: Saya Bukan Penulis Maupun Blogger Profesional. Namun, Menulis Dan Ngeblog Adalah Cara Terbaik Saya Untuk Menghabiskan Waktu Luang Dan Menghasilkan Uang
+email: wpdanblogger.id@gmail.com
+twitter_username: wpdanblogger
+github_username:  wpdanblogger
+gplus_username:  wpdanblogger
+disqus_username: wpdanblogger
 
 # Build settings
 markdown: kramdown
