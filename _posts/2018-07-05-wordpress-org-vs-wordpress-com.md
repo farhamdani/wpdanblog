@@ -3,7 +3,7 @@ layout: post
 title: "Memahami Perbedaan WordPress.com vs WordPress.org"
 date: 2018-07-05 12:33:05
 description: "Tahu nggak bahwa sebenarnya WordPress.com vs WordPress.org itu berbeda? Memang dari segi namanya sama tapi kegunaannya jauh berbeda, ini penjelasannya"
-main-class: 'WordPress'
+main-class: 'wordpress'
 color: '#637a91'
 tags:
 - "Blogger"
@@ -30,13 +30,13 @@ Tujuan saya membuat artikel ini supaya sobat bisa **memilih platform yang tepat
 
 Yuk lanjut, mari kita lihat perbedaan WordPress.com vs WordPress.org
 
-##Perbandingan WordPress.com vs WordPress.org
+## Perbandingan WordPress.com vs WordPress.org
 
 Cara yang paling bagus untuk mengetahui perbedaan antara WordPress.com vs WordPress.org adalah dengan melihat setiap platform secara individual.
 
 ...jadi mari kita lihat versi WordPress mana yang bisa kita gunakan
 
-###Apa itu WordPress.com?
+### Apa itu WordPress.com?
 
 **WordPress.com** adalah salah satu platform untuk membuat blog secara gratis yang dihosting dan dikelola oleh server Automattic, platform ini dibuat oleh Matt Mullenweg dan perusahaannya Automattic.
 
@@ -44,14 +44,14 @@ Matt juga salah satu pendiri perangkat lunak WordPress.org, yang merupakan alasa
 
 ![halaman depan wordpress.com](https://1.bp.blogspot.com/P5-fFeZXp-Z9qucOt_x-q9ZxDguk7k3mA4F1DAK6lShd6rFtNraqKAbS1uLPfdStb-lv6OzCo5I=s400)
 
-###Keunggulan WordPress.com
+### Keunggulan WordPress.com
 
 1. **Gratis** - kita nggak perlu membayar atau ngeluarin duit untuk membeli domain dan hosting (ada paket premium)
 2. **Backup dan keamanan** - kita tidak perlu capek-capek membuat cadangan atau keamanan karena ini dihost oleh Automattic yang berarti backup dan keamanan di kelola oleh pihak mereka
 3. **SEO Friendly** - secara teknis Wordpress.com sudah dioptimalkan dalam segi SEO
 
 
-###Kekurangan WordPress.com
+### Kekurangan WordPress.com
 
 1. **Subdomain** - kita akan mendapatkan subdomain contohnya, wpdanblogger.**wordpress.com** yang kesaanya kurang profesional dan terlalu panjang (ada paket berbayar jika ingin domain khusus)
 2. **Kontrol terbatas**- tidak bisa memonetisasi atau memasang iklan di blog kita, melainkan pihak Wordpress sendiri yang akan memasang iklan
@@ -62,13 +62,13 @@ Matt juga salah satu pendiri perangkat lunak WordPress.org, yang merupakan alasa
 
 Nah, itulah penjelasan tentang Wordpress.com beserta keunggulan dan kekurangannya. Sekarang mari kita lihat pembandingnya yaitu WordPress.org
 
-###Apa itu WordPress.org?
+### Apa itu WordPress.org?
 
 Wordpress.org adalah CMS open source 100% gratis dan bebas digunakan oleh siapa saja. Yang kita butuhkan hanyalah nama domain dan web hosting. Itulah sebabnya kenapa WordPress.org juga disebut sebagai WordPress selfhosted atau yang dihosting sendiri.
 
 ![Halaman depan wordpress.org](https://3.bp.blogspot.com/IDSolvYuMCNzdTljRqWu7yz205PLQA5zwun1JJ3IAwexWZ6lAPJtmt7BP8ymVn4Iw6xZRcMnnJc=s400)
 
-###Keunggulan WordPress.org
+### Keunggulan WordPress.org
 
 1. **Gratis** - bisa digunakan oleh siapa saja yang ingin membuat situs web
 2. **Domain khusus** - menggunakan domain ekstensi TLD seperti *.com .net .id* yang terlihat lebih profesional
@@ -79,7 +79,7 @@ Wordpress.org adalah CMS open source 100% gratis dan bebas digunakan oleh siapa 
 7. **Theme** - bebas menggunakan thema dari pihak ketiga
 8. **Iklan** - kita bisa menampilkan iklan sebagai publisher Adsense atau semacamnya
 
-###Kekurangan WordPress.org
+### Kekurangan WordPress.org
 
 1. **Domain dan hosting** - kita perlu ngeluarin sedikit uang untuk membeli domain dan hosting, untuk harganya tergantung dari layanan webhosting
 2. **Backup dan keamanan** - tanggung jawab sendiri (opsional: bisa menggunakan bantuan plugin)
@@ -88,7 +88,7 @@ Wordpress.org adalah CMS open source 100% gratis dan bebas digunakan oleh siapa 
 
 ...nah, dari penjelasan diatas apakah sudah ada gambaran dan pemahaman tentang WordPress.com vs WordPress.org? Untuk kelebihan dan kekurangan WordPress.com vs WordPress.org masih banyak yang belum di sebutkan, jadi penjelasan yang diatas hanyalah gambaran kecil saja.
 
-###Tanya Jawab Seputar WordPress.com vs WordPress.org
+### Tanya Jawab Seputar WordPress.com vs WordPress.org
 
 **#1. WordPress.com vs WordPress.org - Mana Yang Lebih Baik?**
 
@@ -133,7 +133,7 @@ Jika sobat sudah menentukan paketnya bisa menggunakan kode kupon **a-SAVE50** un
 
 Nah, Itu adalah sebagian dari pertanyaan tentang WordPress yang sering saya dengar digroup diskusi Facebook, forum maupun komentar dari blog lain, apakah sobat juga punya pertanyaan seputar WordPress.com vs WordPress.org? Kirim saja pertanyaannya di kolom komentar
 
-###Penutup
+### Penutup
 
 WordPress adalah solusi untuk semua orang yang kesulitan dalam membuat Website, banyak hal yang bisa kita lakukan jika menggunakan WordPress
 
