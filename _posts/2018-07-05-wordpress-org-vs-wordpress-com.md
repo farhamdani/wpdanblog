@@ -8,7 +8,7 @@ color: '#637a91'
 tags:
 - "Blogger"
 - "Panduan Dasar"
-twitter_text: "apa sih perbedaan WordPress.com vs WordPress.org?
+twitter_text: "apa sih perbedaan WordPress.com vs WordPress.org?"
 introduction: "pada artikel ini kita akan membahas perbedaan WordPress.com vs WordPress.org, berikut penjelasannya"
 ---
 
@@ -133,7 +133,7 @@ Jika sobat sudah menentukan paketnya bisa menggunakan kode kupon **a-SAVE50** un
 
 Nah, Itu adalah sebagian dari pertanyaan tentang WordPress yang sering saya dengar digroup diskusi Facebook, forum maupun komentar dari blog lain, apakah sobat juga punya pertanyaan seputar WordPress.com vs WordPress.org? Kirim saja pertanyaannya di kolom komentar
 
-###Penutup
+##Penutup
 
 WordPress adalah solusi untuk semua orang yang kesulitan dalam membuat Website, banyak hal yang bisa kita lakukan jika menggunakan WordPress
 
